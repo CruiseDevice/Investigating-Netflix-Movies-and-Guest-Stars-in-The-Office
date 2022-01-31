@@ -1,7 +1,7 @@
 # Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office
 Datacamp Project  for Data Scientist with Python Track
 
-Project Tasks
+Guided Project Tasks
 1. Loading your friend's data into a dictionary
 2. Creating a DataFrame from a dictionary
 3. A visual inspection of our data
